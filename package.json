@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/simotae14/typescript-react-official/issues"
   },
-  "homepage": "https://github.com/simotae14/typescript-react-official#readme"
+  "homepage": "https://github.com/simotae14/typescript-react-official#readme",
+  "dependencies": {
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
