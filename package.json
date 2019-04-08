@@ -1,0 +1,23 @@
+{
+  "name": "typescript-react-official",
+  "version": "1.0.0",
+  "description": "Boilerplate for a React & TS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simotae14/typescript-react-official.git"
+  },
+  "keywords": [
+    "typescript",
+    "react"
+  ],
+  "author": "Simone Taeggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simotae14/typescript-react-official/issues"
+  },
+  "homepage": "https://github.com/simotae14/typescript-react-official#readme"
+}
